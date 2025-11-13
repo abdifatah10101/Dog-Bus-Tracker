@@ -29,4 +29,4 @@ The program will:
 1. Print the starting roster
 2. Add a new pet (if seats are available)
 3. Remove a pet early
-4 .Print the final roster with dropoff times
+4. Print the final roster with dropoff times
